@@ -1625,6 +1625,7 @@ var domains = {
   "popyard.org": 1, 
   "porn.com": 1, 
   "porn2.com": 1, 
+  "porn5.com": 1, 
   "pornbase.org": 1, 
   "pornhub.com": 1, 
   "pornmm.net": 1, 
